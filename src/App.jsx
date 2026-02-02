@@ -112,7 +112,14 @@ function App() {
 
 
         </section>
-        <section id='section-3' ></section>
+        <section id='section-3' >
+          <div className="middle">
+            <div className="left">
+               <h1>Let’s work <br /> together</h1>
+            </div>
+            <div className="right"><h1>Fuckers</h1></div>
+          </div>
+        </section>
       </main>
     </>
   )
